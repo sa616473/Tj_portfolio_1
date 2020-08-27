@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to my page! on Saitejas Mopuri</title>
-    <link>https://sa616473.github.io/Tj_portfolio_1/</link>
-    <description>Recent content in Welcome to my page! on Saitejas Mopuri</description>
+    <title>Certificates on Saitejas Mopuri</title>
+    <link>https://sa616473.github.io/Tj_portfolio_1/certs/</link>
+    <description>Recent content in Certificates on Saitejas Mopuri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2020 10:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://sa616473.github.io/Tj_portfolio_1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sa616473.github.io/Tj_portfolio_1/certs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -47,50 +47,12 @@ What is this course?   In this hands-on, four-course Professional Certificate pr
     </item>
     
     <item>
-      <title>Loan Predictions</title>
-      <link>https://sa616473.github.io/Tj_portfolio_1/post/project-2/</link>
-      <pubDate>Thu, 20 Aug 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://sa616473.github.io/Tj_portfolio_1/post/project-2/</guid>
-      <description>github url
-lendingCompany Objective: Can we predict trustworthiness?
-Table of contents   Define Problem
- Can we predict the right loan applicant from their background? Goals    Discover Data
- Exploratory Data Analysis(EDA) Data Visualization    Develop solutions
- Establish a baseline Machine Learning Models Hyperparameter Tuning &amp;amp; Optimization Best model    Defining The Problem Can we predict the right loan applicant from their background?</description>
-    </item>
-    
-    <item>
       <title>Machine Learning Boot Camp</title>
       <link>https://sa616473.github.io/Tj_portfolio_1/certs/cert_4/</link>
       <pubDate>Thu, 20 Aug 2020 10:58:08 -0400</pubDate>
       
       <guid>https://sa616473.github.io/Tj_portfolio_1/certs/cert_4/</guid>
       <description>  What did I learn through this course?  Programming with Python NumPy with Python Using pandas Data Frames to solve complex tasks Use pandas to handle Excel Files Web scraping with python Connect Python to SQL Use matplotlib and seaborn for data visualizations Use plotly for interactive visualizations Machine Learning with SciKit Learn, including: Linear Regression K Nearest Neighbors K Means Clustering Decision Trees Random Forests Natural Language Processing Neural Nets and Deep Learning Support Vector Machines  </description>
-    </item>
-    
-    <item>
-      <title>Salary Predictions</title>
-      <link>https://sa616473.github.io/Tj_portfolio_1/post/project-1/</link>
-      <pubDate>Thu, 20 Aug 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://sa616473.github.io/Tj_portfolio_1/post/project-1/</guid>
-      <description>github url
-Salary Prediction Objective: Can we predict the right salary for the given job
-Table of contents   Define Problem
- Can we predict the right salary for the job description? Goals    Discover Data
- Exploratory Data Analysis(EDA) Data Visualization    Develop solutions
- Establish a baseline Machine Learning Models Hyperparameter Tuning &amp;amp; Optimization Best model    Deploy solution
- Automate the pipeline Save the predictions    Defining The Problem Can we predict the right salary for the job description?</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://sa616473.github.io/Tj_portfolio_1/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sa616473.github.io/Tj_portfolio_1/contact/</guid>
-      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.</description>
     </item>
     
   </channel>

@@ -12,22 +12,76 @@
     
     
     <item>
+      <title>Cloud Practicioner</title>
+      <link>https://sa616473.github.io/Tj_portfolio_1/certs/cert_1/</link>
+      <pubDate>Thu, 20 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://sa616473.github.io/Tj_portfolio_1/certs/cert_1/</guid>
+      <description>Digital badge
+What is this certification? The AWS Certified Cloud Practitioner examination is intended for individuals who have the knowledge and skills necessary to effectively demonstrate an overall understanding of the AWS Cloud, independent of specific technical roles addressed by other AWS Certifications
+Abilities Validated by the Certification   Define what the AWS Cloud is and the basic global infrastructure
+  Describe basic AWS Cloud architectural principles</description>
+    </item>
+    
+    <item>
+      <title>Coursera Machine Learning</title>
+      <link>https://sa616473.github.io/Tj_portfolio_1/certs/cert-2/</link>
+      <pubDate>Thu, 20 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://sa616473.github.io/Tj_portfolio_1/certs/cert-2/</guid>
+      <description>  certificate
+What is this course? This course has provided me a broad introduction to
+ machine learning datamining statistical pattern recognition.  Topics include:
+ (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI).  </description>
+    </item>
+    
+    <item>
+      <title>Coursera Tensorflow in practice</title>
+      <link>https://sa616473.github.io/Tj_portfolio_1/certs/cert-3/</link>
+      <pubDate>Thu, 20 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://sa616473.github.io/Tj_portfolio_1/certs/cert-3/</guid>
+      <description>certificate
+What is this course?   In this hands-on, four-course Professional Certificate program, I have learned the necessary tools to build scalable AI-powered applications with TensorFlow
+  TensorFlow is one of the most in-demand and popular open-source deep learning frameworks available today. The DeepLearning.AI TensorFlow Developer Professional Certificate program has taught me how to apply machine learning skills with TensorFlow so I can build and train powerful models</description>
+    </item>
+    
+    <item>
+      <title>Loan Predictions</title>
+      <link>https://sa616473.github.io/Tj_portfolio_1/post/project-2/</link>
+      <pubDate>Thu, 20 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://sa616473.github.io/Tj_portfolio_1/post/project-2/</guid>
+      <description>github url
+lendingCompany Objective: Can we predict trustworthiness?
+Table of contents   Define Problem
+ Can we predict the right loan applicant from their background? Goals    Discover Data
+ Exploratory Data Analysis(EDA) Data Visualization    Develop solutions
+ Establish a baseline Machine Learning Models Hyperparameter Tuning &amp;amp; Optimization Best model    Defining The Problem Can we predict the right loan applicant from their background?</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Boot Camp</title>
+      <link>https://sa616473.github.io/Tj_portfolio_1/certs/cert_4/</link>
+      <pubDate>Thu, 20 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://sa616473.github.io/Tj_portfolio_1/certs/cert_4/</guid>
+      <description>  What did I learn through this course?  Programming with Python NumPy with Python Using pandas Data Frames to solve complex tasks Use pandas to handle Excel Files Web scraping with python Connect Python to SQL Use matplotlib and seaborn for data visualizations Use plotly for interactive visualizations Machine Learning with SciKit Learn, including: Linear Regression K Nearest Neighbors K Means Clustering Decision Trees Random Forests Natural Language Processing Neural Nets and Deep Learning Support Vector Machines  </description>
+    </item>
+    
+    <item>
       <title>Salary Predictions</title>
       <link>https://sa616473.github.io/Tj_portfolio_1/post/project-1/</link>
       <pubDate>Thu, 20 Aug 2020 10:58:08 -0400</pubDate>
       
       <guid>https://sa616473.github.io/Tj_portfolio_1/post/project-1/</guid>
-      <description>Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
-The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
-    </item>
-    
-    <item>
-      <title>Chapter IV: Master Jacques Coppenole</title>
-      <link>https://sa616473.github.io/Tj_portfolio_1/post/chapter-4/</link>
-      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
-      
-      <guid>https://sa616473.github.io/Tj_portfolio_1/post/chapter-4/</guid>
-      <description>While the pensioner of Ghent and his eminence were exchanging very low bows and a few words in voices still lower, a man of lofty stature, with a large face and broad shoulders, presented himself, in order to enter abreast with Guillaume Rym; one would have pronounced him a bull-dog by the side of a fox. His felt doublet and leather jerkin made a spot on the velvet and silk which surrounded him.</description>
+      <description>github url
+Salary Prediction Objective: Can we predict the right salary for the given job
+Table of contents   Define Problem
+ Can we predict the right salary for the job description? Goals    Discover Data
+ Exploratory Data Analysis(EDA) Data Visualization    Develop solutions
+ Establish a baseline Machine Learning Models Hyperparameter Tuning &amp;amp; Optimization Best model    Deploy solution
+ Automate the pipeline Save the predictions    Defining The Problem Can we predict the right salary for the job description?</description>
     </item>
     
   </channel>
