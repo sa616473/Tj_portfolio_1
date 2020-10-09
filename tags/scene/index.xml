@@ -6,10 +6,26 @@
     <description>Recent content in scene on Saitejas Mopuri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2020 11:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2020 10:58:08 -0400</lastBuildDate>
     
 	<atom:link href="https://sa616473.github.io/Tj_portfolio_1/tags/scene/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Twitter disaster detector</title>
+      <link>https://sa616473.github.io/Tj_portfolio_1/post/project-4/</link>
+      <pubDate>Sun, 20 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://sa616473.github.io/Tj_portfolio_1/post/project-4/</guid>
+      <description>github url
+webapp
+Twitter_real_or_not How to detect disasters using twitter tweets?
+Table of contents   Define Problem
+ How to detect disasters using twitter tweets?    Discover Data
+ Exploratory Data Analysis(EDA) Data Visualization    Develop solutions
+ Establish a baseline NLP Models LSTM Glove LSTM Bert    Deploy solution
+ Automate the pipeline Deploy the solution to gcloud and firebase    Defining The Problem How can we identify the disasters through tweets?</description>
+    </item>
     
     <item>
       <title>Tensorflow Developer</title>
@@ -43,6 +59,18 @@ Abilities Validated by the Certification   Define what the AWS Cloud is and the 
       <description>certificate
 What is this course?   In this hands-on, four-course Professional Certificate program, I have learned the necessary tools to build scalable AI-powered applications with TensorFlow
   TensorFlow is one of the most in-demand and popular open-source deep learning frameworks available today. The DeepLearning.AI TensorFlow Developer Professional Certificate program has taught me how to apply machine learning skills with TensorFlow so I can build and train powerful models</description>
+    </item>
+    
+    <item>
+      <title>Devanagari language recognizer</title>
+      <link>https://sa616473.github.io/Tj_portfolio_1/post/project-3/</link>
+      <pubDate>Thu, 20 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://sa616473.github.io/Tj_portfolio_1/post/project-3/</guid>
+      <description>github url
+webapp
+Devanagari Recognizer Objective: To accuratley classify the Devanagari Characters
+Table of contents  Define Problem  Can we accuratley classify the Devanagari Characters?   Discover Data  Data Visualization   Develop solutions  Machine Learning Models Hyperparameter tuning   Deploy solution  Flask and Heroku    Defining the problem What is Devanagari language?   The Nāgarī or Devanāgarī alphabet developed from eastern variants of the Gupta script called Nāgarī, which first emerged during the 8th century.</description>
     </item>
     
     <item>

@@ -12,6 +12,34 @@
     
     
     <item>
+      <title>Twitter disaster detector</title>
+      <link>https://sa616473.github.io/Tj_portfolio_1/post/project-4/</link>
+      <pubDate>Sun, 20 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://sa616473.github.io/Tj_portfolio_1/post/project-4/</guid>
+      <description>github url
+webapp
+Twitter_real_or_not How to detect disasters using twitter tweets?
+Table of contents   Define Problem
+ How to detect disasters using twitter tweets?    Discover Data
+ Exploratory Data Analysis(EDA) Data Visualization    Develop solutions
+ Establish a baseline NLP Models LSTM Glove LSTM Bert    Deploy solution
+ Automate the pipeline Deploy the solution to gcloud and firebase    Defining The Problem How can we identify the disasters through tweets?</description>
+    </item>
+    
+    <item>
+      <title>Devanagari language recognizer</title>
+      <link>https://sa616473.github.io/Tj_portfolio_1/post/project-3/</link>
+      <pubDate>Thu, 20 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://sa616473.github.io/Tj_portfolio_1/post/project-3/</guid>
+      <description>github url
+webapp
+Devanagari Recognizer Objective: To accuratley classify the Devanagari Characters
+Table of contents  Define Problem  Can we accuratley classify the Devanagari Characters?   Discover Data  Data Visualization   Develop solutions  Machine Learning Models Hyperparameter tuning   Deploy solution  Flask and Heroku    Defining the problem What is Devanagari language?   The Nāgarī or Devanāgarī alphabet developed from eastern variants of the Gupta script called Nāgarī, which first emerged during the 8th century.</description>
+    </item>
+    
+    <item>
       <title>Loan Predictions</title>
       <link>https://sa616473.github.io/Tj_portfolio_1/post/project-2/</link>
       <pubDate>Thu, 20 Aug 2020 10:58:08 -0400</pubDate>
